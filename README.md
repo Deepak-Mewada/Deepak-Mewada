@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch&logoColor=FF6F00)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+<!--![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;-->
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <p align=center>  
-  <img height="180em" align=center src="https://github-readme-stats.vercel.app/api?username=AniketRajpoot&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True)">
-  <!--<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-mewada&langs_count=3&theme=tokyonight&count_private=true&include_all_commits=True)">-->
- <img height="180em" align=center src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AniketRajpoot&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" align=center src="https://github-readme-stats.vercel.app/api?username=deepak-mewada&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True)">
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-mewada&langs_count=3&theme=tokyonight&count_private=true&include_all_commits=True)">
+ <img height="180em" align=center src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deepak-mewada&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
