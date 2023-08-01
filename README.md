@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center">Hello there 👋! My name is Deepak Mewada</h2>
+<h2 align="center">Hello there 👋! My name is  Deepak Mewada</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/deepakmewada"><img height ="25" src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
