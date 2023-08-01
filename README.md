@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <p align=center>  
   <img height="180em" align=center src="https://github-readme-stats.vercel.app/api?username=deepak-mewada&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True)">
-<!--   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-mewada&langs_count=3&theme=tokyonight&count_private=true&include_all_commits=True)"> -->
- <img height="180em" align=center src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deepak-mewada&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-mewada&langs_count=3&theme=tokyonight&count_private=true&include_all_commits=True)">
+<!--  <img height="180em" align=center src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deepak-mewada&layout=compact&langs_count=8&theme=tokyonight"/>
+</p> -->
