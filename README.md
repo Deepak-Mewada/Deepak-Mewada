@@ -27,11 +27,14 @@ Here are some ideas to get you started:
 
 <img alt="Night Coding" height = "180m" src="https://github.com/AniketRajpoot/AniketRajpoot/blob/main/Assets/hello.gif" align="right"/>
 
-- 🔭 I'm currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate with other developers 
-- 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to  
+- 🔭 I’m currently working on Artificial Intelligence for Brain
+- 🌱 I’m currently learning LLM 
+- 👯 I’m looking to collaborate on 'Deep leanring for Brain' 
+- 🤔 I’m looking for help with Neuroscience part 
+- 💬 Ask me about Deep learning, Brain Computer Interfaces, Neurotech, NeuroAI  
+- 📫 How to reach me: deepakmewada96@kgpian.iitkgp.ac.in  
+- 😄 Pronouns: He/His 
+- ⚡ Fun fact : I am on a morning productivity routine. Would you like to join me?
    
 
 
