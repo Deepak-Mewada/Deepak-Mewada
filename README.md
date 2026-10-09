@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Artificial Intelligence for Brain
 - 🌱 I’m currently learning LLM 
 - 👯 I’m looking to collaborate on 'Deep leanring for Brain' 
-- 🤔 I’m looking for help with Neuroscience part 
 - 💬 Ask me about Deepleanring and brain Computer INterfaces  
 - 📫 How to reach me: deepakmewada96@kgpian.iitkgp.ac.in  
 - 😄 Pronouns: He/His 
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on 'Deep leanring for Brain' 
 - 🤔 I’m looking for help with Neuroscience part 
 - 💬 Ask me about Deep learning, Brain Computer Interfaces, Neurotech, NeuroAI  
-- 📫 How to reach me: deepakmewada96@kgpian.iitkgp.ac.in  
+- 📫 How to reach me: deepakmewada96@gmail.com 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact : I am on a morning productivity routine. Would you like to join me?
    
